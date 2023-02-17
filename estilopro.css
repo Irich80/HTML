@@ -1,0 +1,18 @@
+#principal{
+    border: solid 1px #ccc;
+    padding: 5px;
+    margin: 0 auto;
+    width: 85%;
+    background: #82baf9;
+
+}
+
+fieldset {
+    margin-bottom: 10px;
+} 
+legend{
+    border: solid 1px aquamarine;
+    padding: 5px;
+    background-color: chartreuse;
+    border-radius: 15px;
+}
